@@ -1,0 +1,8 @@
+# ignore ALL .fits files
+*.fits
+*.tar.gz
+*.png
+*.pdf
+*.reg
+# ignore ALL .fits files in ANY directory named Exercise
+Exercise/
