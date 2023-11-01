@@ -4,5 +4,6 @@
 *.png
 *.pdf
 *.reg
+*.icloud
 # ignore ALL .fits files in ANY directory named Exercise
 Exercise/
